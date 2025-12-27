@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+.venv/
+
+# Dataset & images
+dataset/
+Color Images/
+
+# Models
+model.h5
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+
